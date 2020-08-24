@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>newlogo.png</file>
+        <file>cross.png</file>
+        <file>circle.png</file>
+        <file>circleicon.png</file>
+    </qresource>
+</RCC>
